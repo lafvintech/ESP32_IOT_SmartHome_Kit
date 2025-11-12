@@ -189,21 +189,23 @@ Function Display
 
 ----
 
-Video tutorial
+Video Tutorial
 --------------
 
  - ESP32 IoT Smart Home Kit Tutorial Arduino IDE
 
 .. raw:: html
 
-   <iframe width="800" height="315" src="https://www.youtube.com/embed/-Rhz00LWlno" title="ESP32 IoT Smart Home Kit Tutorial  Arduino IDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
+   <iframe width="600" height="400" src="https://www.youtube.com/embed/-Rhz00LWlno" title="ESP32 IoT Smart Home Kit Tutorial  Arduino IDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ----
 
  - ESP32 IoT Smart Home Kit Tutorial ESP Flash Tool
 
 .. raw:: html
 
-   <iframe width="800" height="315" src="https://www.youtube.com/embed/bbfqqRyliMA" title="ESP32 IoT Smart Home Kit Tutorial   ESP Flash Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   上传固件的
+   <iframe width="600" height="400" src="https://www.youtube.com/embed/bbfqqRyliMA" title="ESP32 IoT Smart Home Kit Tutorial   ESP Flash Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+----
 
 - The two videos above respectively demonstrate the complete process of uploading code using the Arduino IDE and flashing firmware using Espressif's official flashing tool.
 
