@@ -187,6 +187,6 @@ Function Display
 
  - LED and Fan: Lighting and temperature control
 
-（此处会插入一段功能展示的视频）
-
 ----
+
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/-Rhz00LWlno" title="ESP32 IoT Smart Home Kit Tutorial  Arduino IDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
