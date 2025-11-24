@@ -5,8 +5,6 @@ ESP32 IOT SmartHome Kit
    :maxdepth: 2
    :caption: Contents
 
-📘 Basic Content
-----------------
    Introduction
    Assembly_Tutorial
    Arduino_Tutorial
