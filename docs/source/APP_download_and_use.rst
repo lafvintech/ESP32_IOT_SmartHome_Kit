@@ -1,8 +1,6 @@
 Multiple Control Options
 ========================
 
-（此处会插入一段功能展示视频）
-
 *This kit integrates multiple interaction methods, enabling automatic control via sensors, remote monitoring and operation via a mobile app, and voice control. These diverse interaction modes make learning and experiencing smart homes more intuitive, convenient, and enriching.*
 
 ----
