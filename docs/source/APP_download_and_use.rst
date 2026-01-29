@@ -135,7 +135,7 @@ Speech Recognition control
 
 This kit supports voice recognition, allowing users to directly control LED lights, fans, doors and windows, and adjust the volume through voice commands.  
 
-- Before using voice control, you need to wake up the device.The wake-up phrase is: **"Hi Lumi."** When the device responds, **"Hi, I am Lumi, how can I help you?"** , it has successfully woken up.You can now use the following voice commands to control the device：
+- Before using voice control, you need to wake up the device.The wake-up phrase is: **"Hi Lola."** When the device responds, **"Hi, I am LoLa, how can I help you?"** , it has successfully woken up.You can now use the following voice commands to control the device：
 - Open the door
 - Close the door
 - Turn on the light
