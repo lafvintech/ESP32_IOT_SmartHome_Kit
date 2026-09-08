@@ -216,3 +216,18 @@ Video Tutorial
 - For more detailed operating steps and explanations of principles, please refer to the subsequent text and image tutorial section.
 
 ----
+
+Resource Download
+-----------------
+
+All the necessary code and library files for this course are provided. You can obtain all the resources through the following link.
+
+.. raw:: html
+
+    <a href="_static/Resource Download" class="btn btn-primary" download>📥 Download Resource</a>
+    
+----
+
+**Next, we will delve into the core content of the course and help you gradually understand the relevant concepts and master the operation procedures.**
+
+----
