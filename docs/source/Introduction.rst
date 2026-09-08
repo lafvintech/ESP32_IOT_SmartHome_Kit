@@ -224,7 +224,7 @@ All the necessary code and library files for this course are provided. You can o
 
 .. raw:: html
 
-    <a href="_static/Resource Download" class="btn btn-primary" download>📥 Download Resource</a>
+    <a href="_static/ResourceDownload" class="btn btn-primary" download>📥 Download Resource</a>
     
 ----
 
